@@ -60,3 +60,4 @@ calculadora-indicadores/
   <sub>Questions, ideas or fixes? Open an <a href="https://github.com/Luis321123/Calculator/issues">issue</a>.</sub>
 </p>
 <!-- pr test -->
+<!-- pull shark -->
